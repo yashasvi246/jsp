@@ -1,7 +1,7 @@
 <html>
 <head>
 
-<title>Home</title>
+<title>Home Page</title>
 </head>
 <body>
 <jsp:include page="header.jsp"></jsp:include>
