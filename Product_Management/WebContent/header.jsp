@@ -7,7 +7,7 @@
 <a href="NewCategory.jsp">Add New Category</a> |
 <a href="NewProduct.jsp">Add New Product</a>  |
 <a href="ShowAll.jsp">Show Categories</a> |
-<a href="SearchProduct.jsp">Search Product</a> |
+<a href="SearchProduct.jsp">Search Your Product here</a> |
 <a href="ChangePassword.jsp">Change Password</a> |
 <a href="logout.jsp">Logout</a>
 
